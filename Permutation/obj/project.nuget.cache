@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IWNLYFsQFXHl9YU+iquDnQ5ou7liNKbvntzQAHki7rCNEMVVkaT7Kupqe5uTNO4k2jhGoHQKcVaKZuqqAzfTRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MOU\\Desktop\\permutation\\Permutation\\Permutation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOU\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MOU\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\MOU\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\MOU\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
